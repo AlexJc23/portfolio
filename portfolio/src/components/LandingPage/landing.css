@@ -6,10 +6,11 @@
     width: 100%;
     position: absolute;
 }
-h1 {
-    color: white;
-
+#landing-txt {
+    color: rgb(0, 0, 0);
+    width: 300px;
 }
 .wrapper {
-    text-align: center;
+    /* text-align: center; */
+    margin: 20% auto;
 }
